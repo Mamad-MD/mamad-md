@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./banner.png" width="100%">
-</p>
-
-<div align="center">
 
 # ⚡ MOHAMMAD MOSAYEBI
 
@@ -15,6 +10,12 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
+<div align="center">
 
 # 🖥️ SYSTEM STATUS
 
