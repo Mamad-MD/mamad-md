@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Page;I'm+Mohammad+Mosayebi;Student+%7C+Senior+Engineer+%7C+Graphist;Always+learning+and+Growing" alt="Typing animation" />
+</p>
+
+---
+
 ## Hi there 👋
 
 <!--
