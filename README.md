@@ -57,10 +57,12 @@ Software Engineering
 <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 
 
-<img src="https://skillicons.dev/icons?i=html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,blender,unity"/>
 
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,qt,anaconda,clion,pycharm,visualstudio"/>
+
+<img src="https://skillicons.dev/icons?i=discord,ae,au,ps"/>
 
 </div>
 
