@@ -68,21 +68,25 @@ Software Engineering
 
 # 🚀 FEATURED PROJECTS
 
-### 🚗 Car Rental System
+<div align="center">
 
-Vehicle reservation and management platform developed using C++.
+<a href="https://github.com/Mamad-MD/Car-Rental-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=Car-Rental-System&theme=chartreuse-dark"/>
+</a>
 
-### 🎓 UniPlane
+<a href="https://github.com/Mamad-MD/UniPlane">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=UniPlane&theme=chartreuse-dark"/>
+</a>
 
-Student course scheduling and management system written in C.
+<a href="https://github.com/Mamad-MD/JukeBox-MusicPlayer-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=JukeBox-MusicPlayer-&theme=chartreuse-dark"/>
+</a>
 
-### 🎵 JukeBox
+<a href="https://github.com/Mamad-MD/Counter1.7-AP-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=Counter1.7-AP-Project&theme=chartreuse-dark"/>
+</a>
 
-Music player with online music sharing capability.
-
-### 🎮 Counter Strike Logic
-
-Implementation of Counter Strike game mechanics using C++.
+</div>
 
 ---
 
@@ -115,22 +119,6 @@ Implementation of Counter Strike game mechanics using C++.
 </div>
 
 <br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mamad-MD&theme=chartreuse-dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mamad-MD&show_icons=true&theme=chartreuse-dark&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-MD&layout=compact&theme=chartreuse-dark"/>
-
-</div>
 
 <div align="center">
 
@@ -178,5 +166,26 @@ Goal:
 <div align="center">
 
 ## ⚡ SMALL PROGRESS IS STILL PROGRESS ⚡
+
+</div>
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Mamad-MD/Car-Rental-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=Car-Rental-System&theme=chartreuse-dark"/>
+</a>
+
+<a href="https://github.com/Mamad-MD/UniPlane">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=UniPlane&theme=chartreuse-dark"/>
+</a>
+
+<a href="https://github.com/Mamad-MD/JukeBox-MusicPlayer-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=JukeBox-MusicPlayer-&theme=chartreuse-dark"/>
+</a>
+
+<a href="https://github.com/Mamad-MD/Counter1.7-AP-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=Counter1.7-AP-Project&theme=chartreuse-dark"/>
+</a>
 
 </div>
