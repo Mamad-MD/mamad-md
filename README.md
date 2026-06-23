@@ -104,13 +104,11 @@ Software Engineering
 
 # 📊 GITHUB ANALYTICS
 
-# <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="35"> GitHub Analytics
-
 <div align="center">
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Mamad-MD&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=Mamad-MD&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-MD&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-MD&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
