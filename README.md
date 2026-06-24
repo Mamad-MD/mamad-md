@@ -57,7 +57,7 @@ Software Engineering
 <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 
 
-<img src="https://skillicons.dev/icons?i=html,css,blender,unity,sublime"/>
+<img src="https://skillicons.dev/icons?i=html,blender,unity,sublime,css"/>
 
 
 <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,qt,anaconda"/>
